@@ -1,0 +1,14 @@
+C:\Users\samuel.viana\Desktop\agilMy\agilAPI\bin\Debug\netcoreapp2.1\agilAPI.deps.json
+C:\Users\samuel.viana\Desktop\agilMy\agilAPI\bin\Debug\netcoreapp2.1\agilAPI.runtimeconfig.json
+C:\Users\samuel.viana\Desktop\agilMy\agilAPI\bin\Debug\netcoreapp2.1\agilAPI.runtimeconfig.dev.json
+C:\Users\samuel.viana\Desktop\agilMy\agilAPI\bin\Debug\netcoreapp2.1\agilAPI.dll
+C:\Users\samuel.viana\Desktop\agilMy\agilAPI\bin\Debug\netcoreapp2.1\agilAPI.pdb
+C:\Users\samuel.viana\Desktop\agilMy\agilAPI\obj\Debug\netcoreapp2.1\agilAPI.csprojAssemblyReference.cache
+C:\Users\samuel.viana\Desktop\agilMy\agilAPI\obj\Debug\netcoreapp2.1\agilAPI.csproj.CoreCompileInputs.cache
+C:\Users\samuel.viana\Desktop\agilMy\agilAPI\obj\Debug\netcoreapp2.1\agilAPI.RazorAssemblyInfo.cache
+C:\Users\samuel.viana\Desktop\agilMy\agilAPI\obj\Debug\netcoreapp2.1\agilAPI.RazorAssemblyInfo.cs
+C:\Users\samuel.viana\Desktop\agilMy\agilAPI\obj\Debug\netcoreapp2.1\agilAPI.AssemblyInfoInputs.cache
+C:\Users\samuel.viana\Desktop\agilMy\agilAPI\obj\Debug\netcoreapp2.1\agilAPI.AssemblyInfo.cs
+C:\Users\samuel.viana\Desktop\agilMy\agilAPI\obj\Debug\netcoreapp2.1\agilAPI.RazorTargetAssemblyInfo.cache
+C:\Users\samuel.viana\Desktop\agilMy\agilAPI\obj\Debug\netcoreapp2.1\agilAPI.dll
+C:\Users\samuel.viana\Desktop\agilMy\agilAPI\obj\Debug\netcoreapp2.1\agilAPI.pdb
